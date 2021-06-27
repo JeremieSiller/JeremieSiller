@@ -9,7 +9,7 @@
 ## Fourty-Two is the answer
 - 🌌 the Name of 42 comes from the book hitchhikers through the galaxy
 - 🌍 42 has schools all over the world.
-- 🧑‍🏫 there are no teachers and the students teach themselves and learn from each other
+- 🧑‍🏫 there are no teachers, students teach themselves and learn from each other
 - 📖 instead of studying books and maths 42 is about projects and learning by doing
 - 📍 My school: [42WEBSITE]
 
@@ -18,5 +18,8 @@
 - 🐢 basic shell commands and basic unix knowledge 
 - 🧓🏼 intermidate c programming-skills
 - 🐍 basic python-skills
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeCaptainJack)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeCaptainJack&show_icons=true)
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
