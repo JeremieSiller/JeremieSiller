@@ -19,7 +19,6 @@
 - 🧓🏼 intermidate c programming-skills
 - 🐍 basic python-skills
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeCaptainJack)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeCaptainJack&show_icons=true)
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
