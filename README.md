@@ -7,7 +7,7 @@
 - ⚽️ I love football and my favourite club is ST. PAULI ☠️
 
 ## Fourty-Two is the answer
-- 🌌 the Name of 42 comes from the book hitchhikers through the galaxy
+- 🌌 the Name of 42 is from the book hitchhikers through the galaxy
 - 🌍 42 has schools all over the world.
 - 🧑‍🏫 there are no teachers, students teach themselves and learn from each other
 - 📖 instead of studying books and maths 42 is about projects and learning by doing
