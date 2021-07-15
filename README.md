@@ -4,7 +4,6 @@
 - 👨🏼‍🎓 student at 42 in Heilbronn
 - 📍 living in Heilbronn, Germany
 - 📁 currently working on the core curriculum of 42
-- ⚽️ I love football and my favourite club is ST. PAULI ☠️
 
 ## Fourty-Two is the answer
 - 🌌 the Name of 42 is from the book hitchhikers through the galaxy
