@@ -13,11 +13,12 @@
 - 📍 My school: [42WEBSITE]
 
 ## tools and languages
-- 👶 I am still a beginner so this list wont be long.
-- 🐢 basic shell commands and basic unix knowledge 
-- 🧓🏼 intermidate c programming-skills
-- 🐍 basic python-skills
-- ✚  some c++ knowledge
+- I am still a beginner so this list wont be long.
+- basic shell commands and basic unix knowledge 
+- intermidate c programming-skills
+- basic python skills
+- basic c++ skills
+- basic skills in bash, make and docker
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeCaptainJack&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeCaptainJack&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
