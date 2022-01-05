@@ -1,6 +1,6 @@
 ### Hey there, I am using GitHub. I am Jeremie (or ayeCaptainJack).
 
-## I am a 19 year old student at 42
+## I am a 20 year old student at 42
 - 👨🏼‍🎓 student at 42 in Heilbronn
 - 📍 living in Heilbronn, Germany
 - 📁 currently working on the core curriculum of 42
