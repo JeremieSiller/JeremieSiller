@@ -9,7 +9,7 @@
 - 🌌 the Name of 42 is from the book hitchhikers through the galaxy
 - 🌍 42 has schools all over the world.
 - 🧑‍🏫 there are no teachers, students teach themselves and learn from each other
-- 📖 instead of studying books and maths 42 is about projects and learning by doing
+- 📖 instead of studying books 42 is about projects and learning by doing
 - 📍 My school: [42WEBSITE]
 
 ## tools and languages
