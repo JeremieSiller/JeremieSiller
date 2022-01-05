@@ -13,11 +13,8 @@
 - 📍 My school: [42WEBSITE]
 
 ## tools and languages
-- I am still a beginner so this list wont be long.
-- basic shell commands and basic unix knowledge 
-- intermidate c programming-skills
+- intermidate c/c++ programming-skills
 - basic python skills
-- basic c++ skills
 - basic skills in bash, make and docker
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
