@@ -18,3 +18,4 @@
 - basic skills in bash, make and docker
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremieSiller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
