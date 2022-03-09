@@ -13,7 +13,7 @@
 - 📍 My school: [42WEBSITE]
 
 ## tools and languages
-- intermidate c/c++ programming-skills
+- intermediate C/C++ programming-skills
 - basic python and java skills
 - basic skills in bash, make and docker
 
