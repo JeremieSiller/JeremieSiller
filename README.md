@@ -1,14 +1,14 @@
 ### Hey there, I am using GitHub. I am Jeremie.
 
-## I am a 20 year old student at 42
+## I am a 20 year old student at 42.
 - 👨🏼‍🎓 student at 42 in Heilbronn
 - 📍 living in Heilbronn, Germany
 - 📁 currently working on the core curriculum of 42
 
-## Fourty-Two is the answer
-- 🌌 the Name of 42 is from the book hitchhikers through the galaxy
-- 🌍 42 has schools all over the world.
-- 🧑‍🏫 there are no teachers. students teach themselves and learn from each other
+## Forty-Two is the answer
+- 🌌 the Name of 42 is an anecdote from the book hitchhikers through the galaxy
+- 🌍 there are multiple 42 schools all over the world.
+- 🧑‍🏫 there are no teachers. Students teach themselves and learn from each other
 - 📖 instead of studying books 42 is about projects and learning by doing
 - 📍 My school: [42WEBSITE]
 
