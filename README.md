@@ -3,6 +3,7 @@
 ## I am a 20 year old student at 42.
 - 👨🏼‍🎓 student at 42 in Heilbronn
 - 📍 living in Heilbronn, Germany
+- 🧑🏼‍💻 working for [Nooxit](https://www.nooxit.com)
 - 📁 currently working on the core curriculum of 42
 
 ## Forty-Two is the answer
@@ -14,8 +15,9 @@
 
 ## tools and languages
 - intermediate C/C++ programming-skills
-- basic python and java skills
-- basic skills in bash, make and docker
+- intermediate python skills
+- basic javascript css and html skills
+- skills in docker, make, bash
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremieSiller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
