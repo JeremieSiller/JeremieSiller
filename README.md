@@ -1,10 +1,10 @@
-### Hey there, I am using GitHub. I am Jeremie.
+# Hey there, I am using GitHub
 
-## I am a 20 year old student at 42.
-- 👨🏼‍🎓 student at 42 in Heilbronn
+## I am a 21 year old python developer at Nooxit
+- 👨🏼‍🎓 (part time) student at 42 in Heilbronn
 - 📍 living in Heilbronn, Germany
 - 🧑🏼‍💻 working for [Nooxit](https://www.nooxit.com)
-- 📁 currently working on the core curriculum of 42
+- 📁 currently working on my own projects and the 42 mastery
 
 ## Forty-Two is the answer
 - 🌌 the Name of 42 is an anecdote from the book hitchhikers through the galaxy
@@ -16,7 +16,7 @@
 ## tools and languages
 - intermediate C/C++ programming-skills
 - intermediate python skills
-- basic javascript css and html skills
+- basic js/ts css and html skills
 - skills in docker, make, bash
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
