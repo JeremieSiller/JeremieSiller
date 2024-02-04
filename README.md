@@ -4,7 +4,7 @@
 - 👨🏼‍🎓 Alumni of 42 Heilbronn
 - 📍 living in Hamburg, Germany
 - 🧑🏼‍💻 working for [Nooxit](https://www.nooxit.com)
-- 👨🏼‍🎓 currently Studying [Data Science at TUHH](https://www.tuhh.de/tuhh/studium/vor-dem-studium/studienangebot/bachelorstudiengaenge/data-science)
+- 👨🏼‍🎓 currently studying [Data Science at TUHH](https://www.tuhh.de/tuhh/studium/vor-dem-studium/studienangebot/bachelorstudiengaenge/data-science)
 
 ## Forty-Two is the answer
 - 🌌 the Name of 42 is an anecdote from the book hitchhikers through the galaxy
